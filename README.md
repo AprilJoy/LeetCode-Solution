@@ -15,6 +15,11 @@
 
 [026-删除有序数组中的重复项](./026-删除有序数组中的重复项/README.md)
 
+[三星研究院上机考试1]
+
+[三星研究院上机考试2](./三星-sample2/README.md)
+
+[三星研究院上机考试3](./三星-sample3/README.md)
 
 ## 题目来源
 https://leetcode.cn/problemset/all/
